@@ -1,5 +1,5 @@
 # touchplus
-UNIX "touch" on steroids (written in C).
+UNIX "touch" on steroids (C, Py3).
 
 It was mainly written in C, then I also decided to write the Python3 version of it.
 
